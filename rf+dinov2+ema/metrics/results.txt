@@ -1,0 +1,5 @@
+Average PSNR:  20.51
+Average SSIM:  0.8602
+Average UIQM:  0.9334
+Average UCIQE: 0.1972
+Average LPIPS: 0.1943
